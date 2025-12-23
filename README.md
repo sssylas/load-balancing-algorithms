@@ -4,7 +4,7 @@ The goal of this repository contains simple, hands-on Python examples of common 
 The goal of the project is to explore:
 - How different load balancing algorithms road traffic
 - The tradeoffs and limitations of each approach
-- Why alogirthm choice matters when making a decision about performance, reliability, and scalability
+- Why algorithm choice matters when making a decision about performance, reliability, and scalability
 
 Each implementation is intentionally minimal and observable with logging and timing included to the behavior and bottlenecks of certain algorithms visually able to see.
 
